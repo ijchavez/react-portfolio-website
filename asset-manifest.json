@@ -1,21 +1,24 @@
 {
   "files": {
     "main.css": "/react-portfolio-website/static/css/main.26892b26.css",
-    "main.js": "/react-portfolio-website/static/js/main.52659d09.js",
-    "static/media/portfolio1.jpg": "/react-portfolio-website/static/media/portfolio1.177fcebdf08a87ee2377.jpg",
+    "main.js": "/react-portfolio-website/static/js/main.eefb7d75.js",
     "static/media/me.jpg": "/react-portfolio-website/static/media/me.28645115ca5923f48b68.jpg",
+    "static/media/portfolio1.jpg": "/react-portfolio-website/static/media/portfolio1.c8c9be539ac530ed0963.jpg",
     "static/media/me-about.jpg": "/react-portfolio-website/static/media/me-about.6a3311898926e5d584d3.jpg",
-    "static/media/portfolio6.jpg": "/react-portfolio-website/static/media/portfolio6.0dc99c2c7c03094015ef.jpg",
-    "static/media/portfolio2.jpg": "/react-portfolio-website/static/media/portfolio2.e834fbcca378189c1fe1.jpg",
-    "static/media/portfolio3.jpg": "/react-portfolio-website/static/media/portfolio3.58dc3969a10c8610c8d7.jpg",
-    "static/media/portfolio4.jpg": "/react-portfolio-website/static/media/portfolio4.40a8974d3b3c1e06412b.jpg",
+    "static/media/portfolio7.jpg": "/react-portfolio-website/static/media/portfolio7.b5626b2c0bf24968e62f.jpg",
+    "static/media/portfolio6.jpg": "/react-portfolio-website/static/media/portfolio6.6b133d01e8ac9331ce7d.jpg",
+    "static/media/portfolio2.jpg": "/react-portfolio-website/static/media/portfolio2.33482e099e00157b6f9c.jpg",
+    "static/media/portfolio4.jpg": "/react-portfolio-website/static/media/portfolio4.b5b8b4588cd1d9157aec.jpg",
+    "static/media/portfolio3.jpg": "/react-portfolio-website/static/media/portfolio3.0a128299827cb0d353d6.jpg",
     "static/media/logo.png": "/react-portfolio-website/static/media/logo.6e7e3fd526a4186dd16f.png",
+    "static/media/avatar1.png": "/react-portfolio-website/static/media/avatar1.754293d0d973765f02b7.png",
+    "static/media/avatar3.jpg": "/react-portfolio-website/static/media/avatar3.215c1598bc9b54b8ce3b.jpg",
     "index.html": "/react-portfolio-website/index.html",
     "main.26892b26.css.map": "/react-portfolio-website/static/css/main.26892b26.css.map",
-    "main.52659d09.js.map": "/react-portfolio-website/static/js/main.52659d09.js.map"
+    "main.eefb7d75.js.map": "/react-portfolio-website/static/js/main.eefb7d75.js.map"
   },
   "entrypoints": [
     "static/css/main.26892b26.css",
-    "static/js/main.52659d09.js"
+    "static/js/main.eefb7d75.js"
   ]
 }
