@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+.progress {
+	background-color: #d8d8d8;
+	border-radius: 20px;
+	position: relative;
+	margin: 15px 0px;
+	height: 10px;
+	width: 200px;
+
+}
+
+.progress-done {
+	border-radius: 20px;
+	color: #fff;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100%;
+	width: 0;
+	opacity: 0;
+	transition: 1s ease 0.3s;
+
+}
+/* Media Queries for medium devices*/
+@media screen and (max-width: 1024px){
+	.progress {
+		width: 150px;
+	
+	}
+
+}
+
+/* Media Queries for small devices*/
+@media screen and (max-width: 600px){
+	.progress {
+		width: 100px;
+	
+	}
+
+}
