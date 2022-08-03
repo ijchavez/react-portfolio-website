@@ -31,6 +31,13 @@ const data=[
     
     },
     {
+        avatar: AVTR4,
+        name: 'NodeJS. Platzi',
+        review: 'API Creation, NodeJS/ExpressJS',
+        link:'https://drive.google.com/file/d/1Q-SVx-0CfGuAmkdKAnwu556xvlPyWhu_/view?usp=sharing'
+    
+    },
+    {
         avatar: AVTR2,
         name: 'Responsie Web Design HTML5/CCS3. UTN FRRe',
         review: 'Domain registry, Internet Technologies, HTML5 Introduction, CSS3 Introduction, Model Box, Multimedia Elements, Responsive Design',

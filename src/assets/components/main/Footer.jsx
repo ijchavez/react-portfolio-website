@@ -12,9 +12,9 @@ import '../../styles/footer.css'
 const Footer = () => {
   return (
     <footer>
-      <a href="#" className="footer__logo"><img src={Logo} alt="" /></a>
+      <a href="#top" className="footer__logo"><img src={Logo} alt="" /></a>
       <ul className="permalinks">
-        <li><a href="#">Home</a></li>
+        <li><a href="#top">Home</a></li>
         <li><a href="#about">About</a></li>
         <li><a href="#experience">Experience</a></li>
         <li><a href="#services">Services</a></li>
@@ -35,7 +35,7 @@ const Footer = () => {
       <div className="footer__copyright">
       <small>&copy; Gerardo Chavez 2022</small>
       <small>Created from <a href="https://www.youtube.com/watch?v=G-Cr00UYokU&ab_channel=EGATOR">EGATOR website tutorial</a></small>     
-
+      <small>Previous <a href="https://ijchavez.github.io/html-css/">Website 2020-2021</a></small>
       </div>
     </footer>
   
