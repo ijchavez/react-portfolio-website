@@ -23,11 +23,14 @@ const Work = () => {
                   <p>QA Automation Engineer</p>
 
               </div>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corrupti doloribus hic atque minus sit perspiciatis necessitatibus similique 
-                in amet aliquid explicabo accusamus assumenda aperiam porro minima, repellendus ea dolorem sunt?
-              
-              </p>
-              
+              <p>Independent Contractor - Client: Infogain - Sabre, Air Shopping Project</p>
+              <p>Tasks:</p>
+              <ul>
+                <li>- Create and execute Test Cases according User Stories, using Rally</li>
+                <li>- Create automation scripts using Java/Selenium/Cucumber/TestNG</li>
+               
+              </ul>
+              <p>Technologies and frameworks: Java, Selenium, Cucumber, TestNG, Rally, Git Bash, Bazel, GRPC, BloomRPC, Postman</p>
             </li>
           
           </ul>

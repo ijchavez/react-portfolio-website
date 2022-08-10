@@ -39,13 +39,7 @@ const Contact = () => {
           </article>
 
         </div>
-        <InsertForm 
-          text ='name'
-          email = 'email'
-          textArea = "message"
-          rows = '7'
-
-        />
+        <InsertForm/>
 
       </div>
 
