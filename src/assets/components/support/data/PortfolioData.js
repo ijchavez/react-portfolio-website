@@ -5,13 +5,23 @@ import IMG4 from '../../../images/portfolio4.jpg'
 import IMG5 from '../../../images/portfolio5.png'
 import IMG6 from '../../../images/portfolio6.jpg'
 import IMG7 from '../../../images/portfolio7.jpg'
+import IMG8 from '../../../images/portfolio8.png'
 
 const data=[
+    {
+        id : 8,
+        image: IMG8,
+        title: 'E-Commerce',
+        technologies: 'NextJS, React, Sanity, Stripe deployed on Vercel',
+        github: 'https://github.com/ijchavez/ecommerce-sanity-stripe-jsm',
+        demo: 'https://ecommerce-sanity-stripe-jsm.vercel.app/'
+
+    },
     {
         id : 1,
         image: IMG1,
         title: 'Notes APP',
-        technologies: 'NodeJS, MongoDB, bryptJS, connect-flash, express, express-handlebars, mongoose, passport',
+        technologies: 'NodeJS, MongoDB, bryptJS, connect-flash, express, express-handlebars, mongoose, passport deployed on Heroku',
         github: 'https://github.com/ijchavez/notes-app',
         demo: 'https://powerful-wave-18800.herokuapp.com/'
 
@@ -38,7 +48,7 @@ const data=[
         id : 4,
         image: IMG4,
         title: 'Product API',
-        technologies: 'NodeJS, ExpressJS',
+        technologies: 'NodeJS, ExpressJS deployed on Heroku',
         github: 'https://gitlab.com/ijchavez/nodejs',
         demo: 'https://safe-beyond-55898.herokuapp.com/api/v1/products'
 

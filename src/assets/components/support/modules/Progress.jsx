@@ -22,6 +22,7 @@ const Progress = ({done, colorOne, colorTwo}) => {
 			<div className="progress-done" style={style}>
 				
 			</div>
+			
 		</div>
 	)
 }
