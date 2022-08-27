@@ -21,7 +21,7 @@ const Nav = () => {
   }
   return (
     <nav>
-      <a href="#" 
+      <a href="#top" 
          onClick={() => setActiveNav('#')} 
          className={setClassName('#')}>
             <RiHomeSmileLine/>

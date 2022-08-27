@@ -48,6 +48,15 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
+                <h4>gRPC</h4>
+                <Progress done="20" colorOne='#00f260' colorTwo='#0575e6' />
+
+              </div>
+
+            </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon'/>
+              <div>
                 <h4>Git </h4>
                 <Progress done="50" colorOne='rgba(147, 50, 50, 0.73)' colorTwo='rgba(247, 155, 7, 0.81)' />
               
@@ -112,6 +121,24 @@ const Experience = () => {
                 <h4>Jenkins</h4>
                 <Progress done="30" colorOne='rgba(46, 45, 52, 0.68)' colorTwo='rgba(204, 34, 34, 0.75)' />
               
+              </div>
+            
+            </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon'/>
+              <div>
+                <h4>React</h4>
+                <Progress done="25" colorOne='rgb(86, 255, 255)' colorTwo='rgb(84, 107, 255)' />
+              
+              </div>
+            
+            </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon'/>
+              <div>
+                <h4>NodeJS</h4>
+                <Progress done="35" colorOne='#1f4037' colorTwo='#99f2c8' />
+                
               </div>
             
             </article>

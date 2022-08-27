@@ -19,7 +19,7 @@
 	height: 100%;
 	width: 0;
 	opacity: 0;
-	transition: 1s ease 0.3s;
+	transition: 4.3s ease 0.01s;
 
 }
 /* Media Queries for medium devices*/

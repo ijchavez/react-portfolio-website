@@ -10,9 +10,9 @@ const Progress = ({done, colorOne, colorTwo}) => {
 			opacity: 1,
 			width: `${done}%`,
             background: `linear-gradient(to left, ${colorOne}, ${colorTwo})`,
-            boxShadow: `0 2px 2px -5px ${colorOne}, 0 2px 5px ${colorOne}`
+            boxShadow: `0 2px 2px -5px ${colorOne}, 0 2px 5px ${colorOne}`,
 
-        }
+		}
 		
 		setStyle(newStyle);
 	}, 200);

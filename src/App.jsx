@@ -11,20 +11,20 @@ import Services from './assets/components/main/Services'
 import Work from './assets/components/main/Work'
 import Testimonials from './assets/components/main/Testimonials'
 
-
 export const App = () => {
+
   return (
     <>
-      <Header />
-      <Nav />
-      <About />
-      <Experience />
-      <Services />
-      <Work />
-      <Portfolio />
-      <Testimonials />
-      <Contact />
-      <Footer />
+        <Header />
+        <Nav />
+        <About />
+        <Experience />
+        <Services />
+        <Work />
+        <Portfolio />
+        <Testimonials />
+        <Contact />
+        <Footer />
 
     </>
 
