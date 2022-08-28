@@ -1,8 +1,9 @@
 import React from 'react'
 
 import { BsPatchCheckFill } from 'react-icons/bs'
-import Progress from '../../components/support/modules/Progress'
 
+import Progress from '../../components/support/modules/Progress'
+import SectionTitles from '../support/modules/SectionTitles'
 import '../../styles/experience.css'
 
 
@@ -10,9 +11,11 @@ const Experience = () => {
   return (
     
     <section id='experience'>
-      <h5>What Skills I Have</h5>
-      <h2>My Experience</h2>
+      <SectionTitles 
+        h5 = 'What Skills I Have'
+        h2 ='My Experience'
 
+      />
       <div className="container experience__container">
         <div className="experience__frontend">
           <h3>Automation</h3>

@@ -6,6 +6,7 @@ import IMG5 from '../../../images/portfolio5.png'
 import IMG6 from '../../../images/portfolio6.jpg'
 import IMG7 from '../../../images/portfolio7.jpg'
 import IMG8 from '../../../images/portfolio8.png'
+import IMG9 from '../../../images/airport-location-2959.png'
 
 const data=[
     {
@@ -27,12 +28,21 @@ const data=[
 
     },
     {
+        id : 9,
+        image: IMG9,
+        title: 'Airport Flight Information',
+        technologies: 'React - Axios deployed on Vercel',
+        github: 'https://gitlab.com/ijchavez/flight-information',
+        demo: 'https://flight-information.vercel.app/'
+
+    },
+    {
         id : 2,
         image: IMG2,
         title: 'Budget',
         technologies: 'Javascript',
-        github: 'https://github.com/',
-        demo: 'https://github.com/ijchavez/JavaScript/tree/master/Leccion21_AplicacionPresupuesto'
+        github: 'https://github.com/ijchavez/JavaScript/tree/master/Leccion21_AplicacionPresupuesto',
+        demo: 'https://ijchavez.github.io/JavaScript/Leccion21_AplicacionPresupuesto/index.html'
 
     },
     {

@@ -1,6 +1,8 @@
 
 import React from 'react';
 
+import SectionTitles from '../support/modules/SectionTitles'
+
 import { MdOutlineMail } from 'react-icons/md'
 import { FaDiscord, FaWhatsapp } from 'react-icons/fa'
 
@@ -11,9 +13,11 @@ import InsertForm from '../../components/support/modules/FormCreation'
 const Contact = () => {
   return (
     <section id='contact'>
-      <h5>Get In Touch</h5>
-      <h2>Contact Me</h2>
+      <SectionTitles 
+        h5 = 'Get in Touch'
+        h2 ='Contact Me'
 
+      />
       <div className="container contact__container">
         <div className="contact__options">
           <article className="contact__option">

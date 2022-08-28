@@ -1,5 +1,6 @@
 import React from 'react'
 
+import SectionTitles from '../support/modules/SectionTitles'
 import { BiCheck } from 'react-icons/bi'
 
 import '../../styles/services.css'
@@ -7,9 +8,11 @@ import '../../styles/services.css'
 const Services = () => {
   return (
     <section id='services'>
-      <h5>What I Offer</h5>
-      <h2>Automation</h2>
+      <SectionTitles 
+        h5 = 'What I Offer'
+        h2 ='Automation'
 
+      />
       <div className="container services__container">
         <article className="service">
           <div className="service__head">

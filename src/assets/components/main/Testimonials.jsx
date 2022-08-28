@@ -1,5 +1,7 @@
 import React from 'react'
 
+import SectionTitles from '../support/modules/SectionTitles'
+
 import { Pagination } from 'swiper';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { BsAward } from 'react-icons/bs'
@@ -14,16 +16,18 @@ import data from '../../components/support/data/TestimonialData.js'
 const Testimonials = () => {
   return (
     <section id='testimonials'>
-      <h5>Courses and</h5>
-      <h2>Certifications</h2>
+      <SectionTitles 
+        h5 = 'Courses and'
+        h2 ='Certifications'
 
+      />
       <Swiper 
-        pagination={{
-          dynamicBullets: true,
+          pagination={{
+            dynamicBullets: true,
 
-        }}
-        modules={[Pagination]}
-        className="container testimonials__container"
+          }}
+          modules={[Pagination]}
+          className="container testimonials__container"
 
       >
         {

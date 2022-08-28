@@ -1,5 +1,6 @@
 import React from 'react'
 
+import SectionTitles from '../support/modules/SectionTitles'
 import { MdWorkOutline } from 'react-icons/md'
 
 import '../../styles/work.css'
@@ -7,9 +8,11 @@ import '../../styles/work.css'
 const Work = () => {
   return (
     <section id='works'>
-      <h5>My Working</h5>
-      <h2>Experience</h2>
+      <SectionTitles 
+        h5 = 'My Working'
+        h2 ='Experience'
 
+      />
       <div className="container works__container">
         <article className="work">
           <div className="work__head">

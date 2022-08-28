@@ -1,14 +1,18 @@
 import React from 'react'
 
+import SectionTitles from '../support/modules/SectionTitles'
+
 import '../../styles/portfolio.css'
 import data from '../../components/support/data/PortfolioData.js'
 
 const Portfolio = () => {
   return (
     <section id='portfolio'>
-      <h5>My Recent Work</h5>
-      <h2>Portfolio</h2>
-
+      <SectionTitles 
+        h5 = 'Portfolio'
+        h2 ='My Recent Work'
+      />
+      
       <div className="container portfolio__container">
         {
           data.map(({ id, image, title, technologies, github, demo }) => {
