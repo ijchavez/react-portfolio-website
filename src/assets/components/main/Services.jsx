@@ -75,7 +75,11 @@ const Services = () => {
               <p>Postman</p>
             
             </li>
-
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>gRPC</p>
+            
+            </li>
           </ul>
         
         </article>

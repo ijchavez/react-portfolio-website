@@ -7,6 +7,7 @@ import IMG6 from '../../../images/portfolio6.jpg'
 import IMG7 from '../../../images/portfolio7.jpg'
 import IMG8 from '../../../images/portfolio8.png'
 import IMG9 from '../../../images/airport-location-2959.png'
+import IMG10 from '../../../images/product.png'
 
 const data=[
     {
@@ -64,6 +65,14 @@ const data=[
 
     },
     {
+        id : 10,
+        image: IMG10,
+        title: 'Product Catalog',
+        technologies: 'React - Axios, consuming data from NodeJS API, deployed on Vercel',
+        github: 'https://gitlab.com/ijchavez/productsapi',
+        demo: 'https://productsapi-six.vercel.app/'
+
+    },{
         id : 5,
         image: IMG5,
         title: 'Memo Card Game',
