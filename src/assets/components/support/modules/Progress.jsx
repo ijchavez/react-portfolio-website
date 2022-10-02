@@ -2,7 +2,7 @@ import React from 'react'
 
 import '../../../styles/progress.css'
 
-const Progress = ({done, colorOne, colorTwo}) => {
+const Progress = ({ done, colorOne, colorTwo }) => {
 	const [style, setStyle] = React.useState({});
 	
 	setTimeout(() => {
