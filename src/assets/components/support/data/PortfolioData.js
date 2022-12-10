@@ -23,9 +23,9 @@ const data=[
         id : 1,
         image: IMG1,
         title: 'Notes APP',
-        technologies: 'NodeJS, MongoDB, bryptJS, connect-flash, express, express-handlebars, mongoose, passport deployed on Heroku',
+        technologies: 'NodeJS, MongoDB, bryptJS, connect-flash, express, express-handlebars, mongoose, passport deployed on Fly.io',
         github: 'https://github.com/ijchavez/notes-app',
-        demo: 'https://powerful-wave-18800.herokuapp.com/'
+        demo: 'https://ijchaveznotes-app.fly.dev/'
 
     },
     {
@@ -59,9 +59,9 @@ const data=[
         id : 4,
         image: IMG4,
         title: 'Product API',
-        technologies: 'NodeJS, ExpressJS deployed on Heroku',
+        technologies: 'NodeJS, ExpressJS deployed on Fly.io',
         github: 'https://gitlab.com/ijchavez/nodejs',
-        demo: 'https://safe-beyond-55898.herokuapp.com/api/v1/products'
+        demo: 'https://productapi.fly.dev/api/v1/products'
 
     },
     {
