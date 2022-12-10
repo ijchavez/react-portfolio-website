@@ -22,6 +22,16 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
+              <p>Javascript</p>
+
+            </li>
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>Cypress.io</p>
+
+            </li>
+            <li>
+              <BiCheck className="service__list-icon" />
               <p>Selenium</p>
 
             </li>
@@ -80,6 +90,17 @@ const Services = () => {
               <p>gRPC</p>
             
             </li>
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>Mocha</p>
+
+            </li>
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>Chai</p>
+
+            </li>
+
           </ul>
         
         </article>

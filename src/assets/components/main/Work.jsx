@@ -14,9 +14,33 @@ const Work = () => {
 
       />
       <div className="container works__container">
+      <article className="work">
+          <div className="work__head">
+            <h3>DIC, 2022 - Present. Moove-IT</h3>
+
+          </div>
+          <ul className="work__list">
+            <li>
+              <div className='work__job-description'>
+                  <MdWorkOutline className="work__list-icon" />
+                  <p>QA Automation Engineer</p>
+
+              </div>
+              <p>Tasks:</p>
+              <ul>
+                <li>- Create and execute Test Cases according User Stories, using Jira and Zephyr</li>
+                <li>- Create automation scripts using Javascript/Cyprees.io/NodeJS/FakerJs/Cheerio</li>
+                <li>- Frameword creation using Java/Selenium/TestNG/ExtentReport/PageObject/PageFacroy, multibrowser and headless option</li>
+              </ul>
+              <p>Technologies and frameworks: Cypress.io, Javascript, Java, Selenium, Cucumber, TestNG, Git Bash, Postman</p>
+            </li>
+          
+          </ul>
+ 
+        </article>
         <article className="work">
           <div className="work__head">
-            <h3>JUN, 2022 - present. ZirconTech</h3>
+            <h3>JUN, 2022 - NOV, 2022. ZirconTech</h3>
 
           </div>
           <ul className="work__list">

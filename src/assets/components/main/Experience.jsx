@@ -42,18 +42,27 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>Postman</h4>
-                <Progress done="35" colorOne='rgba(245, 200, 39, 0.64)' colorTwo='rgba(245, 157, 39, 0.89)' />
-              
+                <h4>Cypress.io</h4>
+                <Progress done="35" colorOne='rgb(9, 121, 105)' colorTwo='#060707' />
+
               </div>
 
             </article>
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>gRPC</h4>
-                <Progress done="20" colorOne='#00f260' colorTwo='#0575e6' />
-
+                <h4>Javascript</h4>
+                <Progress done="50" colorOne='rgba(245, 200, 39, 0.64)' colorTwo='rgba(245, 157, 39, 0.89)' />
+              
+              </div>
+            
+            </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon'/>
+              <div>
+                <h4>Postman</h4>
+                <Progress done="35" colorOne='rgba(245, 200, 39, 0.64)' colorTwo='rgba(245, 157, 39, 0.89)' />
+              
               </div>
 
             </article>
@@ -69,13 +78,21 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>Python</h4>
-                <Progress done="30" colorOne='rgba(234, 247, 7, 0.81)' colorTwo='rgba(7, 247, 244, 0.51)' />
+                <h4>NodeJS</h4>
+                <Progress done="45" colorOne='#1f4037' colorTwo='#99f2c8' />
+                
+              </div>
+            
+            </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon'/>
+              <div>
+                <h4>gRPC</h4>
+                <Progress done="20" colorOne='#00f260' colorTwo='#0575e6' />
 
               </div>
 
             </article>
-
           </div>
 
         </div>
@@ -112,15 +129,6 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>Javascript</h4>
-                <Progress done="45" colorOne='rgba(245, 200, 39, 0.64)' colorTwo='rgba(245, 157, 39, 0.89)' />
-              
-              </div>
-            
-            </article>
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon'/>
-              <div>
                 <h4>Jenkins</h4>
                 <Progress done="30" colorOne='rgba(46, 45, 52, 0.68)' colorTwo='rgba(204, 34, 34, 0.75)' />
               
@@ -131,7 +139,7 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>React</h4>
-                <Progress done="25" colorOne='rgb(86, 255, 255)' colorTwo='rgb(84, 107, 255)' />
+                <Progress done="40" colorOne='rgb(86, 255, 255)' colorTwo='rgb(84, 107, 255)' />
               
               </div>
             
@@ -139,13 +147,12 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>NodeJS</h4>
-                <Progress done="35" colorOne='#1f4037' colorTwo='#99f2c8' />
-                
-              </div>
-            
-            </article>
+                <h4>Python</h4>
+                <Progress done="30" colorOne='rgba(234, 247, 7, 0.81)' colorTwo='rgba(7, 247, 244, 0.51)' />
 
+              </div>
+
+            </article>
           </div>
 
         </div>
