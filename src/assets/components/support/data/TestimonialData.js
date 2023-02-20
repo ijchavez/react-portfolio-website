@@ -31,25 +31,38 @@ const data=[
     
     },
     {
-        avatar: AVTR4,
-        name: 'NodeJS. Platzi',
-        review: 'API Creation, NodeJS/ExpressJS',
-        link:'https://drive.google.com/file/d/1Q-SVx-0CfGuAmkdKAnwu556xvlPyWhu_/view?usp=sharing'
+        avatar: AVTR2,
+        name: 'NodeJS. UTN.BA',
+        review: 'Express, mongo DB y JWT, mongoose',
+        link:'https://drive.google.com/file/d/14fGxv9AcninzXxBguXlkZ0FyqoIwxIQT/view?usp=sharing'
     
     },
     {
         avatar: AVTR2,
-        name: 'Responsie Web Design HTML5/CCS3. UTN FRRe',
+        name: 'React',
+        review: 'Props, State, Hooks, useState, useEffect, react-router-dom, Firebase, Fetch, Axios',
+        link:'https://drive.google.com/file/d/14fGxv9AcninzXxBguXlkZ0FyqoIwxIQT/view?usp=sharing'
+    
+    },
+    {
+        avatar: AVTR2,
+        name: 'Responsive Web Design HTML5/CCS3. UTN FRRe',
         review: 'Domain registry, Internet Technologies, HTML5 Introduction, CSS3 Introduction, Model Box, Multimedia Elements, Responsive Design',
         link:'https://drive.google.com/file/d/14fGxv9AcninzXxBguXlkZ0FyqoIwxIQT/view?usp=sharing'
     
-    }
-    ,
+    },
     {
         avatar: AVTR2,
         name: 'Web Design with Javascript. UTN FRRe',
         review: 'JavaScript Introduction, Variables - Operators, Loop, BOM - DOM, Conditionals, Functions - Events, Forms - Validations, JQuery',
         link:'https://drive.google.com/file/d/14fEyDUF9CZPZQoU0BXpZ7e1EtVi-ZDTv/view?usp=sharing'
+    
+    },
+    {
+        avatar: AVTR4,
+        name: 'NodeJS. Platzi',
+        review: 'API Creation, NodeJS/ExpressJS',
+        link:'https://drive.google.com/file/d/1Q-SVx-0CfGuAmkdKAnwu556xvlPyWhu_/view?usp=sharing'
     
     },
     {

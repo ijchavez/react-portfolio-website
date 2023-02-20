@@ -26,7 +26,7 @@ const About = () => {
             <article className='about__card'>
               <GiCircuitry className='about__icon'/>
               <h5>Testing</h5>
-              <small>10+ Years Working</small>
+              <small>15+ Years Working</small>
             
             </article>
             <article className='about__card'>
@@ -44,7 +44,7 @@ const About = () => {
             
           </div>
           <p>
-            10+ year of experience as a Software Quality Analyst. In-depth understanding of Software Development Life Cycle including estimation, planning, design
+            15+ year of experience as a Software Quality Analyst. In-depth understanding of Software Development Life Cycle including estimation, planning, design
             and execution of tests plans in projects and complex environments for financial banking companies.
             Researcher and proactive, enthusiastic about DevOps and Testing Automation practices.
           </p>

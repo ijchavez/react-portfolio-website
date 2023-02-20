@@ -96,8 +96,8 @@ about__card small{
 
     }
     .about__cards{
-        grid-template-columns: 1fr 1fr;
-        gap: 1rem;
+        display: flex;
+        flex-direction: column;
 
     }
     .about__content{

@@ -29,8 +29,24 @@ const Work = () => {
               <p>Tasks:</p>
               <ul>
                 <li>- Create and execute Test Cases according User Stories, using Jira and Zephyr</li>
-                <li>- Create automation scripts using Javascript/Cyprees.io/NodeJS/FakerJs/Cheerio</li>
-                <li>- Frameword creation using Java/Selenium/TestNG/ExtentReport/PageObject/PageFacroy, multibrowser and headless option</li>
+                <li>- Create automation scripts using:</li>
+                  <ul>
+                    <li>Javascript</li>
+                    <li>NodeJS</li>
+                    <li>Cyprees.io</li>
+                    <li>FakerJs</li>
+                    <li>Cheerio</li>
+                  </ul>
+                <li>- Automation consulting and Framework creation using:</li>
+                    <ul>
+                      <li>Java</li>
+                      <li>Selenium</li>
+                      <li>TestNG</li>
+                      <li>ExtentReport</li>
+                      <li>PageObject</li>
+                      <li>PageFactory</li>
+                      <li>Multibrowser and headless option</li>
+                    </ul>
               </ul>
               <p>Technologies and frameworks: Cypress.io, Javascript, Java, Selenium, Cucumber, TestNG, Git Bash, Postman</p>
             </li>
@@ -54,7 +70,13 @@ const Work = () => {
               <p>Tasks:</p>
               <ul>
                 <li>- Create and execute Test Cases according User Stories, using Rally</li>
-                <li>- Create automation scripts using Java/Selenium/Cucumber/TestNG</li>
+                <li>- Create automation scripts using:</li>
+                  <ul>
+                    <li>Java</li>
+                    <li>Selenium</li>
+                    <li>Cucumber</li>
+                    <li>TestNG</li>
+                  </ul>
                
               </ul>
               <p>Technologies and frameworks: Java, Selenium, Cucumber, TestNG, Rally, Git Bash, Bazel, GRPC, BloomRPC, Postman</p>
