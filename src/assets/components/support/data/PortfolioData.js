@@ -8,10 +8,19 @@ import IMG7 from '../../../images/portfolio7.jpg'
 import IMG8 from '../../../images/portfolio8.png'
 import IMG9 from '../../../images/airport-location-2959.png'
 import IMG10 from '../../../images/product.png'
+import IMG11 from '../../../images/robot.png'
 
 const data=[
     {
         id : 8,
+        image: IMG11,
+        title: 'Banking App',
+        technologies: 'React deployed on Vercel',
+        github: 'https://gitlab.com/ijchavez/bank_modern_app',
+        demo: 'https://bank-modern-app-zeta.vercel.app/'
+
+    },{
+        id : 11,
         image: IMG8,
         title: 'E-Commerce',
         technologies: 'NextJS, React, Sanity, Stripe deployed on Vercel',
@@ -25,7 +34,7 @@ const data=[
         title: 'Notes APP',
         technologies: 'NodeJS, MongoDB, bryptJS, connect-flash, express, express-handlebars, mongoose, passport deployed on Fly.io',
         github: 'https://github.com/ijchavez/notes-app',
-        demo: 'https://ijchaveznotes-app.fly.dev/'
+        demo: 'https://new-notes-app.fly.dev/'
 
     },
     {
@@ -59,9 +68,9 @@ const data=[
         id : 4,
         image: IMG4,
         title: 'Product API',
-        technologies: 'NodeJS, ExpressJS deployed on Fly.io',
+        technologies: 'NodeJS, ExpressJS deployed on Render',
         github: 'https://gitlab.com/ijchavez/nodejs',
-        demo: 'https://productapi.fly.dev/api/v1/products'
+        demo: 'https://productsapi-n5p2.onrender.com/api/v1/products'
 
     },
     {
