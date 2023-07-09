@@ -81,6 +81,15 @@ const data=[
         github: 'https://gitlab.com/ijchavez/productsapi',
         demo: 'https://productsapi-six.vercel.app/'
 
+    },
+    {
+        id : 12,
+        image: IMG10,
+        title: 'Product Catalog',
+        technologies: 'AngularTS, consuming data from NodeJS API, deployed on Vercel',
+        github: 'https://bitbucket.org/LucasHood/angularfinalutn/',
+        demo: 'https://angularfinalutn.vercel.app/'
+
     },{
         id : 5,
         image: IMG5,
