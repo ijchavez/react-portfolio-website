@@ -9,11 +9,12 @@ import IMG8 from '../../../images/portfolio8.png'
 import IMG9 from '../../../images/airport-location-2959.png'
 import IMG10 from '../../../images/product.png'
 import IMG11 from '../../../images/robot.png'
+import IMG12 from '../../../images/d395045c-b147-4d2d-92a9-603339fdb47b.jpg'
 
 const data=[
     {
         id : 13,
-        image: "https://ibb.co/f4bCYpG",
+        image: IMG12,
         title: "goEvent App",
         technologies: "React, NextJS, Clerk, Stripe, Uploadthing, deployed on Vercel",
         github: "https://github.com/ijchavez/goevent_platform",
