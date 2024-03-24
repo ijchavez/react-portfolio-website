@@ -12,6 +12,14 @@ import IMG11 from '../../../images/robot.png'
 
 const data=[
     {
+        id : 13,
+        image: "https://ibb.co/f4bCYpG",
+        title: "goEvent App",
+        technologies: "React, NextJS, Clerk, Stripe, Uploadthing, deployed on Vercel",
+        github: "https://github.com/ijchavez/goevent_platform",
+        demo: "https://goevent-platform.vercel.app/"
+    },
+    {
         id : 8,
         image: IMG11,
         title: 'Banking App',
