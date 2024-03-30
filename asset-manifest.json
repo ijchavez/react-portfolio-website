@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-portfolio-website/static/css/main.b5593ff5.css",
-    "main.js": "/react-portfolio-website/static/js/main.355eefd0.js",
+    "main.css": "/react-portfolio-website/static/css/main.02285906.css",
+    "main.js": "/react-portfolio-website/static/js/main.2a1eee86.js",
     "static/media/robot.png": "/react-portfolio-website/static/media/robot.b3924d6a4b8b19ef9de9.png",
     "static/media/portfolio8.png": "/react-portfolio-website/static/media/portfolio8.23a486ecbaa86a00a6dc.png",
     "static/media/me.jpg": "/react-portfolio-website/static/media/me.28645115ca5923f48b68.jpg",
@@ -20,11 +20,11 @@
     "static/media/avatar3.jpg": "/react-portfolio-website/static/media/avatar3.215c1598bc9b54b8ce3b.jpg",
     "static/media/airport-location-2959.png": "/react-portfolio-website/static/media/airport-location-2959.597dcd1ea0db8d65983e.png",
     "index.html": "/react-portfolio-website/index.html",
-    "main.b5593ff5.css.map": "/react-portfolio-website/static/css/main.b5593ff5.css.map",
-    "main.355eefd0.js.map": "/react-portfolio-website/static/js/main.355eefd0.js.map"
+    "main.02285906.css.map": "/react-portfolio-website/static/css/main.02285906.css.map",
+    "main.2a1eee86.js.map": "/react-portfolio-website/static/js/main.2a1eee86.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5593ff5.css",
-    "static/js/main.355eefd0.js"
+    "static/css/main.02285906.css",
+    "static/js/main.2a1eee86.js"
   ]
 }
